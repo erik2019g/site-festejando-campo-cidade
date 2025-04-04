@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    }
+  
+    header {
+        background: url('foto1.jpg') no-repeat center;
+        background-size: cover;
+        height: 100px;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        padding: 50px;
+        }
+    
+    nav ul {
+    list-style: none;
+    padding: 0;
+    background-color: #fafafa28;
+    text-align: center;
+    }
+    
+    nav ul li {
+    display: inline;
+    padding: 10px 20px;
+    }
+    
+    nav ul li a {
+    text-decoration: none;
+    
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    }
+    
+    section {
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1, h2 {
+    color: #a6ff00;
+    }
+    
+    footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: black;
+    }
+    
